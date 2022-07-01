@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.sml-para{
+    font-size: 10px;
+}
+.continer-fluid{
+    padding: 3% 15% 7%;
+}
+.box{
+    margin-top: 150px;
+}
+.img{
+    text-align: center;
+}
+.image{
+    width: 40px;
+    height: 40px;
+}
